@@ -8,25 +8,25 @@ import { useInView } from 'react-intersection-observer'
 const teamMembers = [
   {
     name: 'Jaffery Salem',
-    image: '/men.jpg',
+    image: '/optimized/men.768.webp',
     description: 'Adventure gear specialist with 15 years of experience in outdoor equipment design and testing.',
     reverse: false,
   },
   {
     name: 'Umer Barak',
-    image: '/boy.jpg',
+    image: '/optimized/boy.768.webp',
     description: 'Product development expert passionate about creating innovative solutions for outdoor enthusiasts.',
     reverse: true,
   },
   {
     name: 'Muhammad Ali',
-    image: '/boy2.jpg',
+    image: '/optimized/boy2.768.webp',
     description: 'Quality assurance lead ensuring every product meets the highest standards of durability and performance.',
     reverse: false,
   },
   {
     name: 'Balool',
-    image: '/boy3.jpg',
+    image: '/optimized/boy3.768.webp',
     description: 'Customer experience manager dedicated to providing exceptional service to our adventure community.',
     reverse: true,
   },

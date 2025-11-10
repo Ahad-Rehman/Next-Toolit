@@ -6,10 +6,10 @@ import { motion } from 'framer-motion'
 
 export default function Footer() {
   const socialImages = [
-    { src: '/trail.jpg', alt: 'Trail adventure' },
-    { src: '/bridge.jpg', alt: 'Bridge crossing' },
-    { src: '/grass.jpg', alt: 'Grassland' },
-    { src: '/harley.jpg', alt: 'Harley adventure' },
+    { src: '/optimized/trail.768.webp', alt: 'Trail adventure' },
+    { src: '/optimized/bridge.768.webp', alt: 'Bridge crossing' },
+    { src: '/optimized/grass.768.webp', alt: 'Grassland' },
+    { src: '/optimized/harley.768.webp', alt: 'Harley adventure' },
   ]
 
   const navigationLinks = [

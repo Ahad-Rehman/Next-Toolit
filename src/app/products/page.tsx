@@ -9,25 +9,25 @@ const products = [
   {
     name: 'Glacier Bag',
     price: 19.99,
-    image: '/redbag.jpg',
+    image: '/optimized/redbag.768.webp',
     description: 'Premium adventure bag for all terrains',
   },
   {
     name: 'Edelson Gear Kit',
     price: 9.99,
-    image: '/gear.jpg',
+    image: '/optimized/gear.768.webp',
     description: 'Complete outdoor gear set',
   },
   {
     name: 'Morgan Rail Cycle',
     price: 399.99,
-    image: '/cycle1.jpg',
+    image: '/optimized/cycle1.768.webp',
     description: 'High-performance mountain bike',
   },
   {
     name: 'Floppa Helmet',
     price: 11.99,
-    image: '/blackhelmet.jpg',
+    image: '/optimized/blackhelmet.768.webp',
     description: 'Safety first with style',
   },
   {
@@ -47,37 +47,37 @@ const products = [
   {
     name: 'Artimes Cycle',
     price: 899.99,
-    image: '/cycle.jpg',
+    image: '/optimized/cycle.768.webp',
     description: 'Professional grade bicycle',
   },
   {
     name: 'Robo Helmet',
     price: 75.99,
-    image: '/redhelmet.jpg',
+    image: '/optimized/redhelmet.768.webp',
     description: 'Advanced protection helmet',
   },
   {
     name: 'Sigma Helmet',
     price: 114.99,
-    image: '/rehelmet1.jpg',
+    image: '/optimized/rehelmet1.768.webp',
     description: 'Premium safety helmet',
   },
   {
     name: 'Johnnsi Winter Cap',
     price: 5.99,
-    image: '/hat.jpg',
+    image: '/optimized/hat.768.webp',
     description: 'Warm winter cap',
   },
   {
     name: 'Hiks Multi Tool',
     price: 14.99,
-    image: '/tool.jpg',
+    image: '/optimized/tool.768.webp',
     description: 'Essential multi-purpose tool',
   },
   {
     name: 'Piosa Bottle',
     price: 34.99,
-    image: '/bottle.jpg',
+    image: '/optimized/bottle.768.webp',
     description: 'Insulated water bottle',
   },
 ]

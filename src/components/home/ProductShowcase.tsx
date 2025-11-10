@@ -7,9 +7,9 @@ import { motion } from 'framer-motion'
 import { useInView } from 'react-intersection-observer'
 
 const products = [
-  { src: '/gear.jpg', alt: 'Adventure Gear' },
+  { src: '/optimized/gear.768.webp', alt: 'Adventure Gear' },
   { src: '/optimized/blackorange-shows.768.webp', alt: 'Outdoor Shoes', placeholderKey: 'blackorange-shows' },
-  { src: '/cycle.jpg', alt: 'Mountain Bike' },
+  { src: '/optimized/cycle.768.webp', alt: 'Mountain Bike' },
 ]
 
 export default function ProductShowcase() {

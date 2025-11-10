@@ -7,31 +7,31 @@ import { useInView } from 'react-intersection-observer'
 
 const infoItems = [
   {
-    image: '/cycle1.jpg',
+    image: '/optimized/cycle1.1200.webp',
     title: 'Morgan Dak Bike',
     description: 'High-performance mountain bike designed for extreme terrain. Built with aerospace-grade aluminum and equipped with advanced suspension systems for the smoothest ride on any trail.',
     reverse: false,
   },
   {
-    image: '/blackhelmet1.jpg',
+    image: '/optimized/blackhelmet1.1200.webp',
     title: 'Zoro Safety Helmet',
     description: 'State-of-the-art safety helmet with multi-impact protection. Features advanced ventilation system and moisture-wicking interior for maximum comfort during long rides.',
     reverse: true,
   },
   {
-    image: '/blackorange-shows.jpg',
+    image: '/optimized/blackorange-shows.1200.webp',
     title: 'Multi Terrain Shoes',
     description: 'Engineered for versatility across all outdoor conditions. Waterproof, breathable material with superior grip technology for unmatched performance in any environment.',
     reverse: false,
   },
   {
-    image: '/bottle.jpg',
+    image: '/optimized/bottle.1200.webp',
     title: 'Pisa All Condition Liquid Bottle',
     description: 'Premium insulated bottle that keeps beverages hot for 12 hours or cold for 24 hours. Made from food-grade stainless steel with leak-proof design.',
     reverse: true,
   },
   {
-    image: '/greybag.jpg',
+    image: '/optimized/greybag.1200.webp',
     title: 'Hiking Traveling Bags',
     description: 'Ultra-durable semi-rigid construction with ergonomic design. Features multiple compartments, water-resistant coating, and reinforced straps for heavy loads.',
     reverse: false,

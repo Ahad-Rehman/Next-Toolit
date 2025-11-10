@@ -6,19 +6,19 @@ import { useInView } from 'react-intersection-observer'
 
 const features = [
   {
-    image: '/bike.jpg',
+    image: '/optimized/bike.1200.webp',
     title: 'Best Route, Next Time',
     description: 'Experience the perfect adventure with our carefully curated routes and premium biking gear designed for enthusiasts.',
     reverse: false,
   },
   {
-    image: '/van.jpg',
+    image: '/optimized/van.1200.webp',
     title: 'Take Break, Better',
     description: 'Discover comfort and convenience with our camping equipment that makes every break an unforgettable experience.',
     reverse: true,
   },
   {
-    image: '/girl.jpg',
+    image: '/optimized/girl.1200.webp',
     title: 'Unforgettable Memories',
     description: 'Create lasting memories with high-quality gear that captures the essence of every outdoor adventure.',
     reverse: false,
